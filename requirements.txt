@@ -1,0 +1,5 @@
+# SQLite3 and Tkinter are built into standard Python.
+# Add third-party packages below if installed via pip:
+Flask==3.0.2
+Flask-SQLAlchemy==3.1.1
+python-dotenv==1.0.1
